@@ -1,4 +1,4 @@
-# CaptionCraftPro
+# CaptionWizard
 
 # Dataset
 * filter out sponsor post
