@@ -1,4 +1,5 @@
 # CaptionWizard
+To reproduce our results, download the CaptionWizard_Demo.ipynb file
 
 # Dataset
 * filter out sponsor post
