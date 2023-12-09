@@ -1,5 +1,6 @@
 # CaptionWizard
 To reproduce our results, download the CaptionWizard_Demo.ipynb file
+The majority of the code was ran on Google Colab, so please ensure that you have the correct paths to the data files.
 
 # Dataset
 * filter out sponsor post
