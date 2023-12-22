@@ -9,3 +9,5 @@ The majority of the code was ran on Google Colab, so please ensure that you have
 * [Models](models/README.md)
 
 (other READMEs are still being worked on)
+
+Please read our [Research Paper](CaptionWizard_Final_Report.pdf) for more technical details.
